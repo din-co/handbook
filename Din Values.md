@@ -1,4 +1,4 @@
-# Clef Core Values
+# Din Core Values
 
 ## Be better today than yesterday.
 
